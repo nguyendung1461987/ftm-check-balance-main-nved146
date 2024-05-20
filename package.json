@@ -1,0 +1,33 @@
+{
+  "name": "ftm-check-balance-main-nved146",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyendung1461987/ftm-check-balance-main-nved146.git"
+  },
+  "keywords": [
+    "ftm-check-balance-main-nved146",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "nguyendung1461987",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyendung1461987/ftm-check-balance-main-nved146/issues"
+  },
+  "homepage": "https://github.com/nguyendung1461987/ftm-check-balance-main-nved146#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "ftm-gas-convert-main-nved146": "1.0.0"
+
+  }
+}
